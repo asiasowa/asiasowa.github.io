@@ -10,40 +10,40 @@
       <title>Contact</title>
       <link>https://asiasowa.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://asiasowa.github.io/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     LinkedIn: https://www.linkedin.com/in/asiasowa/   Twitter: https://twitter.com/asia_sowa   Medium: https://medium.com/@asia_sowa    </description>
     </item>
-
+    
     <item>
       <title>Project 1: My PhD thesis</title>
       <link>https://asiasowa.github.io/post/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://asiasowa.github.io/post/project-1/</guid>
       <description>During my PhD in neuropsychopharmacology, I:
  used patch-clamp technique to perform recordings from single neurons in the amygdala circuit wrote grant proposals and independently managed long project, including designing and conducting experiments used custom written MATLAB scripts to analyze time-series and signal data in MATLAB developed my own R package using devtools to wrange, analyze, and vizualize my data (tidyverse, ggplot2) utilized Rmarkdown and bookdown to produce automated reports and my PhD thesis learned how to communicate my research findings by presenting them at 18 international conferences/workshops (4 talks and 14 posters) was able to work on multiple projects (see: Scientific activity)   Link to my PhD thesis</description>
     </item>
-
+    
     <item>
       <title>Project 2: ...</title>
       <link>https://asiasowa.github.io/post/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://asiasowa.github.io/post/project-2/</guid>
       <description></description>
     </item>
-
+    
     <item>
       <title>Scientific activity</title>
       <link>https://asiasowa.github.io/article_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://asiasowa.github.io/article_list/</guid>
-      <description>PhD candidate’s scientific activity Publications Kazmierska-Grebowska P., Siwiec M., Sowa JE, Caban B., Kowalczyk T., Bocian R., MacIver MB. Lamotrigine Attenuates Neuronal Excitability, Depresses GABA Synaptic Inhibition, and Modulates Theta Rhythms in Rat Hippocampus. International Journal of Molecular Sciences. 2021 Dec 05 (accepted)
-Kusek M, Siwiec M, Sowa JE, Bobula B, Bilecki W, Ciurej I, Kaczmarczyk M, Kowalczyk T, Maćkowiak M, Hess G, Tokarski K. 5-HT7 receptors enhance inhibitory synaptic input to principal neurons in the mouse basal amygdala.</description>
+      <description>PhD candidate’s scientific activity Publications   Kazmierska-Grebowska P., Siwiec M., Sowa JE, Caban B., Kowalczyk T., Bocian R., MacIver MB. Lamotrigine Attenuates Neuronal Excitability, Depresses GABA Synaptic Inhibition, and Modulates Theta Rhythms in Rat Hippocampus. International Journal of Molecular Sciences. 2021 Dec 05
+  Kusek M, Siwiec M, Sowa JE, Bobula B, Bilecki W, Ciurej I, Kaczmarczyk M, Kowalczyk T, Maćkowiak M, Hess G, Tokarski K. 5-HT7 receptors enhance inhibitory synaptic input to principal neurons in the mouse basal amygdala.</description>
     </item>
-
+    
   </channel>
 </rss>

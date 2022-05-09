@@ -10,20 +10,20 @@
       <title>Project 1: My PhD thesis</title>
       <link>https://asiasowa.github.io/post/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://asiasowa.github.io/post/project-1/</guid>
       <description>During my PhD in neuropsychopharmacology, I:
  used patch-clamp technique to perform recordings from single neurons in the amygdala circuit wrote grant proposals and independently managed long project, including designing and conducting experiments used custom written MATLAB scripts to analyze time-series and signal data in MATLAB developed my own R package using devtools to wrange, analyze, and vizualize my data (tidyverse, ggplot2) utilized Rmarkdown and bookdown to produce automated reports and my PhD thesis learned how to communicate my research findings by presenting them at 18 international conferences/workshops (4 talks and 14 posters) was able to work on multiple projects (see: Scientific activity)   Link to my PhD thesis</description>
     </item>
-
+    
     <item>
       <title>Project 2: ...</title>
       <link>https://asiasowa.github.io/post/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://asiasowa.github.io/post/project-2/</guid>
       <description></description>
     </item>
-
+    
   </channel>
 </rss>
