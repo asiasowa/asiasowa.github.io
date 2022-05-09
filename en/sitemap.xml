@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://asiasowa.github.io/portfolio/about/</loc>
+    <loc>https://asiasowa.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://asiasowa.github.io/portfolio/categories/</loc>
+    <loc>https://asiasowa.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asiasowa.github.io/portfolio/fr/categories/"
+                href="https://asiasowa.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asiasowa.github.io/portfolio/categories/"
+                href="https://asiasowa.github.io/categories/"
                 />
   </url><url>
-    <loc>https://asiasowa.github.io/portfolio/contact/</loc>
+    <loc>https://asiasowa.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asiasowa.github.io/portfolio/fr/contact/"
+                href="https://asiasowa.github.io/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asiasowa.github.io/portfolio/contact/"
+                href="https://asiasowa.github.io/contact/"
                 />
   </url><url>
-    <loc>https://asiasowa.github.io/portfolio/</loc>
+    <loc>https://asiasowa.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asiasowa.github.io/portfolio/fr/"
+                href="https://asiasowa.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asiasowa.github.io/portfolio/"
+                href="https://asiasowa.github.io/"
                 />
   </url><url>
-    <loc>https://asiasowa.github.io/portfolio/tags/</loc>
+    <loc>https://asiasowa.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asiasowa.github.io/portfolio/fr/tags/"
+                href="https://asiasowa.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asiasowa.github.io/portfolio/tags/"
+                href="https://asiasowa.github.io/tags/"
                 />
   </url>
 </urlset>
